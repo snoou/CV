@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #f7f8fd;
+}
+.container{
+    max-width: 1300px;
+    margin: 0 auto;
+}
+.section_nav{
+    width: 100%;
+    background-color: #fff;
+    height: 100px;
+    margin-top :1rem;
+    border-radius: 12px ;
+    box-shadow: 0 2px 8px 0 rgb(99,99,99,0.2);
+}
